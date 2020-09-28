@@ -1,0 +1,15 @@
+{
+    "name": "delilah-resto",
+    "version": "1.0.0",
+    "description": "API for the delilah resto application, which handles restaurant orders, can register to place orders and administrators can upload new meals to the application.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pattyrodriguez/Delilah-Resto.git"
+    },
+    "author": "Olga Patricia Rodriguez",
+    "license": "MIT"
+}
